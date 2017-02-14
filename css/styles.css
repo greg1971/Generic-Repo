@@ -48,9 +48,20 @@ a:hover {text-decoration:underline;}
 /* Set Page Elements */
 .content { 
 	float:left;
-	margin:40px;
+	margin:35px;
 	position:absolute;
-	top:200px;
+	top:120px;
+	width:500px;
+	z-index:9999;
+	-webkit-font-smoothing:antialiased;
+}
+
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) .content {
+/* IE10+ CSS styles go here */
+	float:left;
+	margin:35px;
+	position:absolute;
+	top:50px;
 	width:600px;
 	z-index:9999;
 	-webkit-font-smoothing:antialiased;
