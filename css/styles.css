@@ -56,7 +56,7 @@ a:hover {text-decoration:underline;}
 	width:500px;
 	z-index:9999;
 	-webkit-font-smoothing:antialiased;
-	word-wrap: break-word;
+	
 }
 
 @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) .content {
