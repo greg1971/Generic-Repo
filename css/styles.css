@@ -124,6 +124,12 @@ button.full-screen{
 }
 button.full-screen:hover {opacity: 1;}
 
+@media only screen and (max-width: 380px) {
+	    .arrow_left {
+        display: none;
+    }
+}
+
 #arrow_left, #arrow_right {
 	bottom:30px;
 	height:42px;
