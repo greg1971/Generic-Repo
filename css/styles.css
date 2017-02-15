@@ -59,7 +59,7 @@ a:hover {text-decoration:underline;}
 @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) .content {
 /* IE10+ CSS styles go here */
 	float:left;
-	margin:35px;
+	margin:15px;
 	position:absolute;
 	top:50px;
 	width:600px;
