@@ -111,6 +111,7 @@ a:hover {text-decoration:underline;}
 }
 .social-nav ul li:hover {opacity: 1;}
 
+@media only screen and (min-width: 381px) {
 button.full-screen{ 
 	position: absolute;
 	top: 0;
@@ -123,13 +124,13 @@ button.full-screen{
 	opacity: .7;
 }
 button.full-screen:hover {opacity: 1;}
-
+}
 
 
 @media only screen and (min-width: 381px) {
 
 #arrow_left, #arrow_right {
-	bottom:30px;
+	bottom:70px;
 	height:42px;
 	position:absolute;
 	right:40px;
