@@ -126,6 +126,7 @@ button.full-screen:hover {opacity: 1;}
 
 
 
+@media only screen and (min-width: 381px) {
 
 #arrow_left, #arrow_right {
 	bottom:30px;
@@ -137,5 +138,7 @@ button.full-screen:hover {opacity: 1;}
 }
 #arrow_left {
 	right:95px;
+}
+
 }
 
