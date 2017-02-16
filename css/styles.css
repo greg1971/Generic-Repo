@@ -134,7 +134,7 @@ button.full-screen:hover {opacity: 1;}
 @media only screen and (min-width: 381px) {
 
 #arrow_left, #arrow_right {
-	bottom:70px;
+	bottom:40px;
 	height:42px;
 	position:absolute;
 	right:40px;
